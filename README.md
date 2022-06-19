@@ -2,4 +2,4 @@
 
 Hover On The Clock!!!! 
 
-[open project] - [https://rohinidigitalclock.netlify.app/](https://digitalwallclock.netlify.app)
+[open project] - [open Project](https://digitalwallclock.netlify.app)
