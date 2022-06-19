@@ -1,2 +1,5 @@
 # Digital_Clock
-using html , Css ,Javascript
+
+Hover On The Clock!!!! 
+
+[open project] - https://rohinidigitalclock.netlify.app/
